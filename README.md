@@ -1,0 +1,2 @@
+# OEM-4-20mA-Transmitter-for-NDIR-Gas-Sensors
+The Cirius X OEM 4-20mA transmitter is an extremely flexible transmitter for NDIR gas sensors providing a robust linear 4-20mA output in response to signals from standard NDIR gas sensors. All sensor driving, signal extraction and linearisation is performed on-board with calibration and configuration accessed by a menu driven sequence using 3 pushbuttons or via the RS232 port.
